@@ -21,7 +21,7 @@ I'm a passionate cybersecurity enthusiast with a strong desire to secure the dig
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ### :fire: My Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arun7303)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Arun7303&theme=dark)
 
 
 ---
