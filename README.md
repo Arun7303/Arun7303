@@ -13,9 +13,6 @@
 ### :fire: My Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arun7303)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@MandarKelkar_06)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=MandarKelkarOfficial&icon=5&color=6)](https://visitcount.itsvg.in)
 
