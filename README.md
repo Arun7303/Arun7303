@@ -24,5 +24,8 @@ I'm a passionate cybersecurity enthusiast with a strong desire to secure the dig
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arun7303&theme=dark)
 
 
+## 🏅 Trophy Case
+![](https://github-profile-trophy.vercel.app/?username=Arun7303&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+
 ---
 ![](https://komarev.com/ghpvc/?username=Arun7303)
